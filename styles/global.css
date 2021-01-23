@@ -6,14 +6,17 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
+  color: white;
+  background: center repeat #17181c;
 }
 
 * {
   box-sizing: border-box;
+
 }
 
 a {
-  color: #0070f3;
+  color: #e6d5f7;
   text-decoration: none;
 }
 
@@ -22,6 +25,6 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
+  /* max-width: 100%; */
   display: block;
 }
